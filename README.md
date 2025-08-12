@@ -1,4 +1,4 @@
-## Plus Diamond Recipes
+## Plus Diamond
 
 <details>
 <summary>Italiano</summary>
@@ -21,3 +21,6 @@ In vanilla Minecraft, diamonds can only be found by mining deep underground or a
 With this datapack, you can obtain diamonds through **additional recipes** that make the process less difficult and more accessible.
 
 </details>
+
+---
+![Smelting Sword Example](https://cdn.modrinth.com/data/DVTdAIy2/images/295d40bbbcff15400bc3f8994fce04b230c35729.png)
